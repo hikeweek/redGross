@@ -37,3 +37,8 @@
 ## Платформи
 
 - **Windows (десктопна версія)**.
+
+## Скріншоти тестування прототипу
+
+![Image](https://github.com/hikeweek/redGross/blob/main/ScreenGame.png)
+![Image2](https://github.com/hikeweek/redGross/blob/main/ScreenGame2.png)
